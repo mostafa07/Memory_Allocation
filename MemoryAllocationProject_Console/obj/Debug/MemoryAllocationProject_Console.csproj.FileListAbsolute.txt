@@ -1,0 +1,5 @@
+c:\users\mostafa mahmoud\documents\visual studio 2015\Projects\MemoryAllocationProject_Console\MemoryAllocationProject_Console\bin\Debug\MemoryAllocationProject_Console.exe.config
+c:\users\mostafa mahmoud\documents\visual studio 2015\Projects\MemoryAllocationProject_Console\MemoryAllocationProject_Console\bin\Debug\MemoryAllocationProject_Console.exe
+c:\users\mostafa mahmoud\documents\visual studio 2015\Projects\MemoryAllocationProject_Console\MemoryAllocationProject_Console\bin\Debug\MemoryAllocationProject_Console.pdb
+c:\users\mostafa mahmoud\documents\visual studio 2015\Projects\MemoryAllocationProject_Console\MemoryAllocationProject_Console\obj\Debug\MemoryAllocationProject_Console.exe
+c:\users\mostafa mahmoud\documents\visual studio 2015\Projects\MemoryAllocationProject_Console\MemoryAllocationProject_Console\obj\Debug\MemoryAllocationProject_Console.pdb
